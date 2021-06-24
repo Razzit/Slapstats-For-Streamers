@@ -1,4 +1,4 @@
-# SlapStats-For-Streamers
+# SlapStats For Streamers
 A Python script that grabs stats from your latest Slapshot custom match and outputs the values to a text file
 
 Instructions:  
