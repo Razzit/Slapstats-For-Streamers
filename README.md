@@ -6,7 +6,7 @@ Instructions:
 2.) Run the exe or script.  
 3.) 2 files will be generated in the same directory - home_stats.txt and away_stats.txt.  
 4.) The program will continue to monitor the files and update stats until you exit with CTRL + C.  
-4.) Use these generated .txt files to populate your stream overlay.  
+5.) Use these generated .txt files to populate your stream overlay.  
 
 Format of the txt files:  
 Goals  
