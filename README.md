@@ -1,5 +1,5 @@
 # SlapStats For Streamers
-A Python script that grabs stats from your latest Slapshot custom match and outputs the values to a text file.
+A Python script that grabs stats from your latest Slapshot custom match and outputs the values to text files.
 
 Instructions:  
 1.) Place the exe or script into your Slapshot matches folder "..\steamapps\common\SlapshotRebound\Slapshot_Data\Matches".  
